@@ -1,0 +1,13 @@
+agenda:
+    in this lesson. 3-4 apps are to be made.
+
+source link: 
+    https://www.udemy.com/course/the-complete-nodejs-developer-course-2/learn/lecture/13728814?start=315#overview
+
+cmder
+    update
+        choco update nodejs
+    check node version
+        node -v
+    check npm version globally
+        npm -v -g

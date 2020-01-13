@@ -1,0 +1,106 @@
+source link:
+    https://nodejs.org/en/docs/
+
+v13.6.0 api / file System / console.log([data][, ...args]) / fs.writeFileSync(file, data[, options])#
+
+source link: 
+    https://www.udemy.com/course/the-complete-nodejs-developer-course-2/learn/lecture/13728868#overview
+
+source link:
+    cd ..
+    cd ..
+    e:
+    cd --
+    E:\Desktop\important matters\online learning sites\Udemy\udemy The Complete Node.js Developer Course ( 3rd edition)\Section 7 Web Servers Weather app
+cmder
+    node 09_apps.js
+
+===
+
+    chapter 15
+
+source link: 
+    https://www.npmjs.com/
+
+special notes:
+    copying a whole file and then moving onto another folder will not work. there are attachments with copied files which makes it inoperable to work with in cmder. however, copying the content inside the file may be more favorable. 
+
+cmder
+
+    npm i
+        always for every new folder. opens new folder package-lock.json
+    npm i chalk
+    npm i -g node-modules
+        always for every new folder. opens new folder node_modules.json
+    course work
+        node 15_apps.js
+        node 15_apps.js Ritz
+        node 15_apps.js add
+        node 15_apps.js remove
+        node 15_apps.js add --title="This is my title"
+
+===
+
+    chapter 42
+
+cmder
+
+===
+
+    chapter 43
+
+cmder
+
+===
+
+    chapter 44
+
+cmder
+
+===
+
+    chapter 45
+
+cmder
+
+===
+
+    chapter 46
+
+cmder
+
+===
+
+    chapter 47
+
+cmder
+
+===
+
+    chapter 48
+
+cmder
+
+===
+
+    chapter 49
+
+cmder
+
+===
+
+    chapter 50
+
+cmder
+
+===
+
+    chapter 51
+
+cmder
+
+===
+
+    chapter 52
+
+cmder

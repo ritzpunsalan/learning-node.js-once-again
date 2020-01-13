@@ -1,0 +1,109 @@
+source link:
+    https://nodejs.org/en/docs/
+
+v13.6.0 api / file System / console.log([data][, ...args]) / fs.writeFileSync(file, data[, options])#
+
+source link: 
+    https://www.udemy.com/course/the-complete-nodejs-developer-course-2/learn/lecture/13728868#overview
+
+source link:
+    cd ..
+    cd ..
+    e:
+    cd --
+    E:\Desktop\important matters\online learning sites\Udemy\udemy The Complete Node.js Developer Course ( 3rd edition)\Section 4 Files System and Command Line Args Notes app
+
+cmder
+    node 09_apps.js
+
+===
+
+    chapter 15
+
+source link: 
+    https://www.npmjs.com/
+
+special notes:
+    copying a whole file and then moving onto another folder will not work. there are attachments with copied files which makes it inoperable to work with in cmder. however, copying the content inside the file may be more favorable. 
+
+cmder
+
+    npm i
+        always for every new folder. opens new folder package-lock.json
+    npm i chalk
+    npm i -g node-modules
+        always for every new folder. opens new folder node_modules.json
+    course work
+        node 15_apps.js
+        node 15_apps.js Ritz
+        node 15_apps.js add
+        node 15_apps.js remove
+        node 15_apps.js add --title="This is my title"
+        node 15_apps.js list
+        node 15_apps.js read
+
+
+===
+
+    chapter 16
+
+cmder
+
+    npm i yargs
+    npm i -g yargs
+    course work
+        node 16_apps.js
+        node 16_apps.js add --title="Things to buy"
+        clear
+        node 16_apps.js --help
+        node 16_apps.js --version
+        node 16_apps.js add
+===
+
+    chapter 17
+
+cmder
+
+===
+
+    chapter 18
+
+cmder
+
+
+===
+
+    chapter 19
+
+cmder
+
+===
+
+    chapter 20
+
+cmder
+
+===
+
+    chapter 21
+
+cmder
+
+===
+
+    chapter 22
+
+cmder
+
+===
+
+    chapter 23
+
+cmder
+
+===
+
+    chapter 24
+
+cmder
+

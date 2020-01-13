@@ -1,0 +1,15 @@
+agendas:
+
+cmder:
+    clear
+        clear
+    node console mode
+        node
+    don't use this
+        window
+            undefined
+                 only works on google inspect
+    global, works much like windows.
+        global
+    exit
+        process.exit()

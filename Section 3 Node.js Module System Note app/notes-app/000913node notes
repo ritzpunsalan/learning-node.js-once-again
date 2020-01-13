@@ -1,0 +1,64 @@
+source link:
+    https://nodejs.org/en/docs/
+
+v13.6.0 api / file System / console.log([data][, ...args]) / fs.writeFileSync(file, data[, options])#
+
+source link: 
+    https://www.udemy.com/course/the-complete-nodejs-developer-course-2/learn/lecture/13728814?start=315#overview
+
+source link:
+    cd ..
+    cd ..
+    e:
+    cd --
+    E:\Desktop\important matters\online learning sites\Udemy\udemy The Complete Node.js Developer Course ( 3rd edition)\Section 3 Node.js Module System Note app\notes-app
+
+cmder
+
+    node 09_apps.js
+
+===
+
+    chapter 11
+
+source link: 
+    https://www.npmjs.com/
+
+cmder
+
+    node -v
+    npm -v
+    node init
+        yes to all. does locally only, also creates package.json local.
+
+    npm i validator
+
+===
+
+    Chapter 12
+    
+    when deleting node_modules
+        npm i 
+
+source link: 
+    https://www.npmjs.com/
+
+    search / chalk
+
+cmder
+    npm i chalk
+    npm i chalk@2.4.1
+
+    Chapter 13
+
+    source link: 
+    https://www.npmjs.com/
+
+    search / nodemon
+
+cmder
+    npm i nodemon -g
+    ctrl + c
+        to exit
+    npm i -g nodemon
+        to update
