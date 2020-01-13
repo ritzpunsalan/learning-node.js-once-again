@@ -69,6 +69,8 @@ cmder
     chapter 18
 
 cmder
+        
+        node 16_apps.js add --title="Shoping list"
 
 
 ===
