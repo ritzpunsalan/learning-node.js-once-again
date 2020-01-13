@@ -70,8 +70,14 @@ cmder
 
 cmder
         
-        node 16_apps.js add --title="Shoping list"
-
+        node 17_apps.js add --title="Shoping list"
+        node 17_apps.js add
+            error
+                check for small imprints missing
+        node 17_apps.js add --title
+            error
+                check for tiny imprints missing
+        node 17_apps.js add --title="Buy" --body="These are what I need to buy."
 
 ===
 
