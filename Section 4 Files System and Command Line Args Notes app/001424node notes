@@ -64,20 +64,32 @@ cmder
 
 cmder
 
+    node 17_apps.js add --title="Shoping list"
+    node 17_apps.js add
+        error
+            check for small imprints missing
+    node 17_apps.js add --title
+        error
+            check for tiny imprints missing
+    node 17_apps.js add --title="Buy" --body="These are what I need to buy."
+
 ===
 
     chapter 18
 
+site source link:
+
 cmder
-        
-        node 17_apps.js add --title="Shoping list"
-        node 17_apps.js add
-            error
-                check for small imprints missing
-        node 17_apps.js add --title
-            error
-                check for tiny imprints missing
-        node 17_apps.js add --title="Buy" --body="These are what I need to buy."
+
+    source link:
+        cd .. 
+        /18playground
+            or ...
+        E:\Desktop\important matters\online learning sites\Udemy\udemy The Complete Node.js Developer Course ( 3rd edition)\Section 4 Files System and Command Line Args Notes app\18playground
+    node 18-json.js
+    ls 
+        list   
+
 
 ===
 
