@@ -1,4 +1,4 @@
-const fs = require('fs')
+  const fs = require('fs')
 
 const getNotes = function () {
     return 'Your notes ...'
@@ -6,7 +6,33 @@ const getNotes = function () {
 
 const addNote = function (title, body) {
     const notes = loadNotes()
-    console.log(notes)
+    const duplicateNotes = notes.filter(function (note) {
+        return note.title === title 
+    })
+
+    if (duplicateNotes. length === 0) {
+        notes.push({
+            title: title,
+            body: body
+        })
+        saveNotes(notes)
+        console.log('New note added!')    
+    } else {
+        console.log('Note title taken!') 
+    }
+
+    // notes.push({
+    //     title: title,
+    //     body: body
+    // })
+     
+    // // console.log(notes)
+    // saveNotes(notes)
+}
+
+const saveNotes = function (notes) {
+    const dataJSON = JSON.stringify(notes)
+    fs.writeFileSync('19notes.json', dataJSON)
 }
 
 const loadNotes = function () {
@@ -21,7 +47,7 @@ const loadNotes = function () {
         return []
     }
 }
-
+ 
 module.exports = {
     getNotes: getNotes,
     addNote: addNote

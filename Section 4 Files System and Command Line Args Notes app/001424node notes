@@ -103,6 +103,9 @@ special notes:
 cmder
 
     node 19_apps.js add --title="t" --body="b"
+    node 19_apps.js add --title="L ist" --body="Sweater, Plans, Pants"
+    node 19_apps.js add --title="List 2" --body="Sweater, Plans, Pants"
+
 
 ===
 
