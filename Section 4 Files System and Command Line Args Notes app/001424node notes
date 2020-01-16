@@ -90,14 +90,19 @@ cmder
         E:\Desktop\important matters\online learning sites\Udemy\udemy The Complete Node.js Developer Course ( 3rd edition)\Section 4 Files System and Command Line Args Notes app\18playground
     node 18-json.js
     ls 
-        list   
+        list    
 
 
 ===
 
     chapter 19
 
+special notes:
+    re-view again once you've seen all the video. make sure all the codes are in line and checked correctly. I don't want to have to get day or even a week of error to solve within a month or never.
+
 cmder
+
+    node 19_apps.js add --title="t" --body="b"
 
 ===
 
