@@ -113,6 +113,12 @@ cmder
 
 cmder
 
+    remove 
+    node 20_apps.js remove --title="some title"
+    node 20_apps.js remove --title="t"
+    node 20_apps.js remove --title="List 2"
+
+    
 ===
 
     chapter 21
