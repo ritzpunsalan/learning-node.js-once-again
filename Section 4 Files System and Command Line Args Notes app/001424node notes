@@ -127,13 +127,27 @@ source link:
     E:\Desktop\important matters\online learning sites\Udemy\udemy The Complete Node.js Developer Course ( 3rd edition)\Section 4 Files System and Command Line Args Notes app\playground
 
 cmder
+    
     nodemon 212-arrow-function.js
+        ctrl + c
+            shut down nodemon
 
 ===
 
     chapter 22
+source link: 
+    links.mead.io/arrow-challenge
+        or
+    https://gist.github.com/andrewjmead/ad7a587411aa8e3fb3ea643c37c45818
 
 cmder
+    
+    nodemon 223-arrow-challenge.js
+    ctrl + c
+        shut down nodemon
+    node 22_apps.js remove --title="List"
+    node 22_apps.js add --title="t" --body="b"
+
 
 ===
 
