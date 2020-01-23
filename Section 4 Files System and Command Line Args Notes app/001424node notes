@@ -153,8 +153,13 @@ cmder
 
     chapter 23
 
-cmder
+special note:
+    needs to be redone again at a later moment. at the time, it didn't go as smoothy as the tutorial did. I had a error on #23. however, just going to try and move on and google a solution.
 
+cmder
+    
+    node 23_apps.js list
+    
 ===
 
     chapter 24
