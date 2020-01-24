@@ -164,5 +164,10 @@ cmder
 
     chapter 24
 
+special note:
+    needs to be redone again at a later moment. at the time, it didn't go as smoothy as the tutorial did. I had a error on #24. however, just going to try and move on and google a solution. the codes are cristal clear but still does not work.
+
 cmder
+
+    node 24_apps.js read --title="t"
 
